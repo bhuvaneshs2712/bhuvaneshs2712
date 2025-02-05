@@ -1,4 +1,4 @@
-# Hi there, I'm Brian Robert 
+# Hi there, I'm Bhuvanesh
 
 Welcome to my GitHub profile! I'm a *Front-End Developer* with a passion for creating scalable and interactive web applications.  
 I have experience in *HTML, CSS, JavaScript, React JS, Bootstrap, and **Node.js*.  
@@ -7,7 +7,7 @@ I have experience in *HTML, CSS, JavaScript, React JS, Bootstrap, and **Node.js*
  Front-End Developer | Passionate about UI/UX
  Currently enhancing my skills in *MERN Stack*
  Studying Full-Stack Development at *Lamda Tech Softics*
- Working on *Men Style Hub* - an eCommerce project
+ Working on *Men Style Hub* - an ECommerce project
 
 ##  Tools and Technologies  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
