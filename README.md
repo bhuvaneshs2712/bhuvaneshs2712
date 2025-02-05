@@ -3,14 +3,11 @@
 Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about crafting sleek, interactive, and scalable web applications.  
 I specialize in **HTML, CSS, JavaScript, React.js, Bootstrap, and Node.js**, bringing ideas to life with clean and responsive designs.  
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-
 ## 🌟 About Me  
 🔹 **Frontend Developer** | Passionate about **UI/UX** & Smooth User Experiences  
 🔹 Currently sharpening my skills in the **MERN Stack**  
 🔹 Studying **Full-Stack Development** at **Lamda Tech Softics**  
 🔹 Building **Men Style Hub** – A dynamic **eCommerce platform** 🛍️  
-
-
 ## 🛠️ Tech Stack & Tools  
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -21,7 +18,6 @@ I specialize in **HTML, CSS, JavaScript, React.js, Bootstrap, and Node.js**, bri
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
-
 ## 📩 Let’s Connect!  
 🚀 **[LinkedIn](https://www.linkedin.com/in/bhuvanesh-s20/)**  
 🌍 **[Portfolio](https://your-portfolio.com)**  
