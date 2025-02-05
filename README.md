@@ -8,6 +8,7 @@ I specialize in **HTML, CSS, JavaScript, React.js, Bootstrap, and Node.js**, bri
 🔹 Currently sharpening my skills in the **MERN Stack**  
 🔹 Studying **Full-Stack Development** at **Lamda Tech Softics**  
 🔹 Building **Men Style Hub** – A dynamic **eCommerce platform** 🛍️  
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 ## 🛠️ Tech Stack & Tools  
 <p align="left">
