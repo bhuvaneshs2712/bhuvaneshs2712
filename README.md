@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a **Frontend Developer** passionate about crafting sleek, interactive, and scalable web applications.  
 I specialize in **HTML, CSS, JavaScript, React.js, Bootstrap, and Node.js**, bringing ideas to life with clean and responsive designs.  
-<img align="right" width="100" height="100" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="100" height="" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 ## 🌟 About Me  
 🔹 **Frontend Developer** | Passionate about **UI/UX** & Smooth User Experiences  
 🔹 Currently sharpening my skills in the **MERN Stack**  
