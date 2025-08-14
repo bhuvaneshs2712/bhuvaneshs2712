@@ -20,8 +20,10 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Engineer** with strong
 <div align="center">
 
   <!-- Profile Picture -->
-<img src="https://github.com/bhuvaneshs2712/bhuvaneshs2712/blob/main/WhatsApp_Image_2025-08-14_at_4.13.31_PM%5B1%5D.jpeg?raw=true" alt="Bhuvanesh S" width="200" style="border-radius: 50%; border: 3px solid #0e75b6; margin-top: 20px;" />
-
+ <img src="https://github.com/bhuvaneshs2712/bhuvaneshs2712/blob/main/WhatsApp_Image_2025-08-14_at_4.13.31_PM%5B1%5D.jpeg?raw=true" 
+       alt="Bhuvanesh S" 
+       width="200" 
+       style="border-radius: 50%; border: 4px solid #0e75b6; box-shadow: 0px 0px 15px rgba(14, 117, 182, 0.8); margin-top: 20px;" />
 </div>
 
 ---
