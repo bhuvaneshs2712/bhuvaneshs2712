@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Engineer** with strong
 <img src="https://your-banner-image-link.com/banner.png" alt="Bhuvanesh S Banner" width="100%" />
 
 <!-- Profile Picture -->
-<img src="" alt="Bhuvanesh S" width="200" style="border-radius: 50%; border: 3px solid #0e75b6; margin-top: 20px;" />
+<img src="https://github.com/bhuvaneshs2712/image-.git" alt="Bhuvanesh S" width="200" style="border-radius: 50%; border: 3px solid #0e75b6; margin-top: 20px;" />
 
 </div>
 
