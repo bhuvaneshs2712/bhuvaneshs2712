@@ -122,21 +122,6 @@ A modern, secure e-commerce platform for men's fashion with comprehensive user m
 - **Modern JavaScript** - ES6+, async/await, and advanced patterns
 - **API Development** - RESTful services and microservices architecture
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhuvanesh-s20&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvanesh-s20&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvanesh-s20&theme=radical" alt="GitHub Streak" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvanesh-s20&theme=react-dark&hide_border=true" alt="Contribution Graph">
-</div>
-
 ### 💡 Areas of Interest & Expertise
 
 **Web Development:**
@@ -156,10 +141,10 @@ A modern, secure e-commerce platform for men's fashion with comprehensive user m
 
 ### 🎯 Current Goals & Objectives
 
-- 🚀 **Short-term:** Complete advanced React.js certification and build 3 more full-stack projects
-- 🌟 **Medium-term:** Contribute to open-source projects and gain experience with cloud technologies  
-- 🎖️ **Long-term:** Secure a frontend/full-stack developer role at an innovative tech company
-- 📈 **Continuous:** Stay updated with latest web development trends and AI applications
+- 🚀 **Short-term:** Gain experience getting training and learn more
+- 🌟 **Medium-term:** Contribute to open-source projects and gain experience  
+- 🎖️ **Long-term:** Secure a frontend role at an innovative tech company
+- 📈 **Continuous:** Stay updated with latest web development trends and Interactive AI Web development 
 
 ### 🔗 Repository Highlights
 
@@ -173,9 +158,8 @@ All my repositories follow consistent naming conventions and include:
 
 #### 🏷️ **Topics & Technologies**
 My repositories are tagged with relevant topics for easy discovery:
-- `javascript`, `python`, `react`, `django`, `html`, `css`
-- `web-development`, `frontend`, `full-stack`, `ai`, `machine-learning`
-- `responsive-design`, `api-development`, `authentication`
+- `javascript`, `python`, `django`, `html`, `css`
+- `web-development`, `frontend`, `AI promte engineering `,`responsive-design`, 
 
 ### 📫 Let's Connect & Collaborate!
 
@@ -186,8 +170,8 @@ I'm always excited to connect with fellow developers, collaborate on interesting
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919384781433)
 
 **📍 Location:** Chennai, Tamil Nadu, India  
-**💼 Status:** Open to internship and entry-level opportunities  
-**🤝 Collaboration:** Always interested in innovative web development projects
+**💼 Status:** Open to entry-level opportunities  
+**🤝 Collaboration:** Always interested in innovative web development projects with AI innovative
 
 ---
 
