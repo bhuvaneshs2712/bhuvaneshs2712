@@ -13,6 +13,22 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Engineer** with strong
 - 📞 Contact: +91 9384781433
 - 📧 Email: bhuvaneshs2712@gmail.com
 
+---
+
+### 📸 My Snapshot
+
+<div align="center">
+  
+<!-- Banner Image -->
+<img src="https://your-banner-image-link.com/banner.png" alt="Bhuvanesh S Banner" width="100%" />
+
+<!-- Profile Picture -->
+<img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Bhuvanesh S" width="200" style="border-radius: 50%; border: 3px solid #0e75b6; margin-top: 20px;" />
+
+</div>
+
+---
+
 ### 💻 Tech Stack
 
 #### Frontend
@@ -32,6 +48,8 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Engineer** with strong
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+---
 
 ### 🎯 Featured Projects
 
@@ -73,6 +91,8 @@ A modern, secure e-commerce platform for men's fashion with comprehensive user m
 - Created streamlined user interaction flows
 - Integrated real-time product updates
 
+---
+
 ### 💼 Professional Experience
 
 #### Full Stack Development Intern | **Phoenix Softech**, Madurai
@@ -88,6 +108,8 @@ A modern, secure e-commerce platform for men's fashion with comprehensive user m
 - Designed and implemented responsive frontend interfaces
 - Worked on database integration and API development
 - Gained hands-on experience with full development lifecycle
+
+---
 
 ### 🎓 Education & Learning
 
@@ -106,6 +128,8 @@ A modern, secure e-commerce platform for men's fashion with comprehensive user m
 - **Higher Secondary Certificate (HSC)** - 62.2% | Devangar HR SEC School (2020-2021)
 - **Secondary School Leaving Certificate (SSLC)** - 46.2% | Kumararaja Muthiah HR SEC School (2018-2019)
 
+---
+
 ### 🏆 Certifications & Achievements
 
 - 🛡️ **IBM Skilled TNSDC** - Fundamentals of Cybersecurity with Kali Linux
@@ -114,6 +138,8 @@ A modern, secure e-commerce platform for men's fashion with comprehensive user m
 - 📱 **MERN Stack Development & Mobile App Development** - Hands-on programmer certification
 - 🔧 **Selenium Testing** - Beginner level automation testing
 
+---
+
 ### 🌱 Currently Learning & Exploring
 
 - **Advanced React.js** - Hooks, Context API, and state management
@@ -121,6 +147,8 @@ A modern, secure e-commerce platform for men's fashion with comprehensive user m
 - **Cloud Technologies** - AWS, deployment, and DevOps practices
 - **Modern JavaScript** - ES6+, async/await, and advanced patterns
 - **API Development** - RESTful services and microservices architecture
+
+---
 
 ### 💡 Areas of Interest & Expertise
 
@@ -139,12 +167,16 @@ A modern, secure e-commerce platform for men's fashion with comprehensive user m
 - Version control and collaborative development
 - Testing and quality assurance practices
 
+---
+
 ### 🎯 Current Goals & Objectives
 
 - 🚀 **Short-term:** Gain experience getting training and learn more
 - 🌟 **Medium-term:** Contribute to open-source projects and gain experience  
 - 🎖️ **Long-term:** Secure a frontend role at an innovative tech company
 - 📈 **Continuous:** Stay updated with latest web development trends and Interactive AI Web development 
+
+---
 
 ### 🔗 Repository Highlights
 
@@ -159,7 +191,9 @@ All my repositories follow consistent naming conventions and include:
 #### 🏷️ **Topics & Technologies**
 My repositories are tagged with relevant topics for easy discovery:
 - `javascript`, `python`, `django`, `html`, `css`
-- `web-development`, `frontend`, `AI promte engineering `,`responsive-design`, 
+- `web-development`, `frontend`, `AI promte engineering`, `responsive-design`
+
+---
 
 ### 📫 Let's Connect & Collaborate!
 
