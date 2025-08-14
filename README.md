@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Bhuvanesh S
 
-## 🚀 Frontend Engineer | Full Stack Developer | AI Enthusiast
+## 🚀 Frontend Engineer | AI Enthusiast
 
 Welcome to my GitHub profile! I'm a passionate **Frontend Engineer** with strong skills in building responsive and user-friendly web applications. Currently pursuing B.E Computer Science Engineering and actively working on innovative projects.
 
