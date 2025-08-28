@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Bhuvanesh S  
 
 🌟 Enthusiastic **Frontend Engineer** passionate about building responsive and user-friendly applications.  
-💻 Skilled in **HTML, CSS, JavaScript, Python, React.js, and Django**.  
-🚀 Exploring **AI, SaaS solutions, and Full-Stack Development**.  
+💻 Skilled in **HTML, CSS, JavaScript, Python, Django (Basic)**.  
+\🚀 Exploring **AI, SaaS solutions, and AI Full-Stack Development**.  
 
 ---
 
@@ -17,8 +17,8 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, HTML, CSS, Python  
-- **Frameworks:** React.js, Django  
-- **Databases:** MySQL, SQLite  
+- **Frameworks:** Django  
+- **Databases:** MySQL(Basic), 
 - **Tools:** VS Code, PyCharm, Git, Cursor AI  
 - **Others:** Selenium (Beginner)  
 
@@ -32,17 +32,13 @@ A weather reporting application that fetches real-time weather data and displays
 - Integrated weather APIs for accurate real-time data  
 - Responsive design for mobile & desktop  
 
-🔗 [View Project](#)  
-
 ---
 
 ### ✂️ Rock-Paper-Scissors Game  
 A fun interactive game built for the web.  
 - Play against the computer with random AI moves  
 - Clean UI with modern styling  
-- Implemented using **JavaScript, HTML, CSS**  
-
-🔗 [View Project](#)  
+- Implemented using **JavaScript, HTML, CSS** 
 
 ---
 
@@ -51,15 +47,11 @@ A fun interactive game built for the web.
 - Export resumes as **PDF with professional templates**  
 - Powered by **Python + JavaScript**  
 
-🔗 [View Project](#)  
-
 ---
 
 ### 🛒 Ecommerce Website – *Men’s Style Hub*  
 - Built a secure e-commerce platform with **React + JS + HTML + CSS**  
-- Features JWT authentication, dynamic product fetching, and responsive UI  
-
-🔗 [View Project](#)  
+- Features JWT authentication, dynamic product fetching, and responsive UI 
 
 ---
 
@@ -74,7 +66,8 @@ A fun interactive game built for the web.
 ## 📬 Connect With Me  
 - 📧 Email: **bhuvaneshs2712@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/bhuvanesh-s20](https://www.linkedin.com/in/bhuvanesh-s20)  
-- 🌐 Portfolio: *Coming Soon*  
+- 🌐 Portfolio:https://bhuvanesh-aifsd.netlify.app/
+- 📲 Contact: 9384781433 
 
 ---
 
