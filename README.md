@@ -1,68 +1,81 @@
-# Bhuvanesh S — Portfolio (HTML/CSS/JavaScript)
+# 👋 Hi, I'm Bhuvanesh S  
 
-Welcome to my personal portfolio. This site is built with basic web technologies — HTML, CSS, and JavaScript — and showcases my skills and beginner-friendly projects.
+🌟 Enthusiastic **Frontend Engineer** passionate about building responsive and user-friendly applications.  
+💻 Skilled in **HTML, CSS, JavaScript, Python, React.js, and Django**.  
+🚀 Exploring **AI, SaaS solutions, and Full-Stack Development**.  
 
-## 👨‍💻 About Me
-- Frontend learner focused on clean, responsive web design
-- Comfortable with HTML, CSS, and JavaScript
-- Interested in building simple, useful projects for the web
- - Exploring prompt engineering for better UX copy and chatbot prompts
- - Beginner with API integration (using public APIs in small projects)
- - Learning Python basics (scripts, simple problem solving)
- - Starting with Selenium for beginner-level browser automation
+---
 
-## 🌐 Live Portfolio
-- Portfolio Repo: https://github.com/bhuvaneshs2712/portfolio
-- GitHub Pages (if enabled): https://bhuvaneshs2712.github.io/portfolio
+## 🔥 About Me
+- 🌱 Currently learning **Full-Stack Development** (React + Django + MySQL)  
+- 🧑‍💻 Hands-on experience with **internships in Full Stack Development**  
+- 🤖 Passionate about **AI-powered apps & assistants (Jarvis-inspired projects)**  
+- 📍 Based in **Chennai, India**  
+- ⚡ Fun fact: I love creating **small but powerful apps** like games and weather tools  
 
-## 🧩 Projects (No React, No ML)
-- Weather Information App
-  - Live: https://wetherinfoapp.netlify.app/
-  - Code: https://github.com/bhuvaneshs2712/wetherinfo
-  - Notes: Shows real-time weather using a public API; supports geolocation
+---
 
-- Rock Paper Scissor Game
-  - Live: https://stone-scroll-snip.netlify.app
-  - Code: https://github.com/bhuvaneshs2712/Rock-paper-scissor
-  - Notes: Classic game vs computer with score tracking
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, HTML, CSS, Python  
+- **Frameworks:** React.js, Django  
+- **Databases:** MySQL, SQLite  
+- **Tools:** VS Code, PyCharm, Git, Cursor AI  
+- **Others:** Selenium (Beginner)  
 
-- AI Resume Builder (UI-focused)
-  - Live: https://ai-resume-builder-3-hpt5.onrender.com
-  - Code: https://github.com/bhuvaneshs2712/AI-resume-builder
+---
 
-- Ecommerce — Mens Style Hub (UI-focused)
-  - Live: https://menstylehub04.netlify.app
-  - Code: (to be added)
+## 📂 Featured Projects  
 
-## 🗂 Folder Structure
-```
-portfolio/
-├── index.html       # Main page
-├── style.css        # Styles and layout
-├── javascript.js    # Interactivity and effects
-├── IMG-*.jpg        # Profile photo
-└── README.md        # This file
-```
+### 🌦️ Weather Info App  
+A weather reporting application that fetches real-time weather data and displays it in a user-friendly interface.  
+- Built using **Python, HTML, CSS, JS**  
+- Integrated weather APIs for accurate real-time data  
+- Responsive design for mobile & desktop  
 
-## 🛠 Tech Stack
-- HTML: page structure
-- CSS: styling, responsive layout
-- JavaScript: interactivity and small animations
-- Font Awesome: icons
- - Public APIs (beginner): fetching data and rendering it on the page
- - Python (beginner): small scripts and utilities
- - Selenium (beginner): open pages, click, fill forms
+🔗 [View Project](#)  
 
-## 🚀 How to Run
-- Option 1: Download/clone the repo and open `index.html` in a browser
-- Option 2: Use a simple local server (e.g., VS Code Live Server)
+---
 
-## ✏️ Customize
-- Edit text in `index.html` (name, bio, links)
-- Change colors/spacing in `style.css`
-- Add small features in `javascript.js`
+### ✂️ Rock-Paper-Scissors Game  
+A fun interactive game built for the web.  
+- Play against the computer with random AI moves  
+- Clean UI with modern styling  
+- Implemented using **JavaScript, HTML, CSS**  
 
-## 📫 Contact
-- Email: bhuvaneshs2712@gmail.com
-- LinkedIn: https://linkedin.com/in/-bhuvanesh-s20
-- GitHub: https://github.com/bhuvaneshs2712
+🔗 [View Project](#)  
+
+---
+
+### 📄 AI Resume Builder  
+- An intelligent resume generator with keyword-matching from job descriptions  
+- Export resumes as **PDF with professional templates**  
+- Powered by **Python + JavaScript**  
+
+🔗 [View Project](#)  
+
+---
+
+### 🛒 Ecommerce Website – *Men’s Style Hub*  
+- Built a secure e-commerce platform with **React + JS + HTML + CSS**  
+- Features JWT authentication, dynamic product fetching, and responsive UI  
+
+🔗 [View Project](#)  
+
+---
+
+## 🎓 Certifications
+- IBM TNSDC – Fundamentals of Cybersecurity with Kali Linux  
+- Deep Learning Applications using Python (Workshop)  
+- Django Full Stack Development – Lamda Tech Softics  
+- MERN Stack & Mobile App Development (Hands-on Program)  
+
+---
+
+## 📬 Connect With Me  
+- 📧 Email: **bhuvaneshs2712@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/bhuvanesh-s20](https://www.linkedin.com/in/bhuvanesh-s20)  
+- 🌐 Portfolio: *Coming Soon*  
+
+---
+
+⭐️ *If you like my projects, don’t forget to star my repositories!* ⭐️
