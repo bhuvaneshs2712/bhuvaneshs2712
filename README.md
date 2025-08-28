@@ -6,6 +6,10 @@ Welcome to my personal portfolio. This site is built with basic web technologies
 - Frontend learner focused on clean, responsive web design
 - Comfortable with HTML, CSS, and JavaScript
 - Interested in building simple, useful projects for the web
+ - Exploring prompt engineering for better UX copy and chatbot prompts
+ - Beginner with API integration (using public APIs in small projects)
+ - Learning Python basics (scripts, simple problem solving)
+ - Starting with Selenium for beginner-level browser automation
 
 ## 🌐 Live Portfolio
 - Portfolio Repo: https://github.com/bhuvaneshs2712/portfolio
@@ -45,6 +49,9 @@ portfolio/
 - CSS: styling, responsive layout
 - JavaScript: interactivity and small animations
 - Font Awesome: icons
+ - Public APIs (beginner): fetching data and rendering it on the page
+ - Python (beginner): small scripts and utilities
+ - Selenium (beginner): open pages, click, fill forms
 
 ## 🚀 How to Run
 - Option 1: Download/clone the repo and open `index.html` in a browser
